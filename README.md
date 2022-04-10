@@ -1,4 +1,4 @@
-# qbcore-jobs
+# qb-jobs
 Jobs For QBCore
 
 # Discord
